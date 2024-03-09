@@ -1,5 +1,13 @@
 .heading-1 {
-    text-align: center;
-    background-color: blue;
-    color: white;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  background-color: red;
+  color: yellow;
+
+
 };
